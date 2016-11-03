@@ -16,7 +16,7 @@ public class adivina {
 		int contador = 0;
 		
 		do {
-			System.out.println("Introduce el numero: ");
+			System.out.printf("Introduce el numero: (Intento nº %d) \n" ,contador);
 			String line = scanner.nextLine();
 			numero = Integer.parseInt(line);
 			if (numero > numeroAleatorio) {
