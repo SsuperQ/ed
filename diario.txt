@@ -1,0 +1,8 @@
+20170119 quiquesapina 
+instalados en ubuntu 14.04:
+monodevelop
+monodevelop-nunit
+monodevelop-versioncontrol
+monodoc-browser
+monodoc-browser-gtk2.0-manual
+monodoc-nunit-manual
