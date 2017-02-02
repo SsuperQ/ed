@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGtk", "CGtk\CGtk.csproj", "{F7A1B0B4-8DB9-477A-9E02-FCB713D4DDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A1B0B4-8DB9-477A-9E02-FCB713D4DDC8}.Debug|x86.ActiveCfg = Debug|x86
+		{F7A1B0B4-8DB9-477A-9E02-FCB713D4DDC8}.Debug|x86.Build.0 = Debug|x86
+		{F7A1B0B4-8DB9-477A-9E02-FCB713D4DDC8}.Release|x86.ActiveCfg = Release|x86
+		{F7A1B0B4-8DB9-477A-9E02-FCB713D4DDC8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CGtk\CGtk.csproj
+	EndGlobalSection
+EndGlobal
